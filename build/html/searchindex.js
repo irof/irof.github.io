@@ -1,0 +1,1 @@
+Search.setIndex({objects:{},terms:{github:0,bar:0,hoge:0,baz:0,fuga:0,buzz:0,foo:0,com:0,piyo:0,irof:0,fizz:0},objtypes:{},titles:["irof.github.com"],objnames:{},filenames:["index"]})
